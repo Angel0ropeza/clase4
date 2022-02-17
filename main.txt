@@ -1,1 +1,3 @@
 el main de mi aplicacion
+
+instrucciones agregadas en el repositorio remoto 
